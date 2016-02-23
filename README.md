@@ -1,5 +1,3 @@
-==README
-
 ####README
 
 #####A personal blog site inspired by Mackenzie Child. 
